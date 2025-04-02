@@ -3,6 +3,10 @@ USDT混币器(ERC-20)，带前端后端，可直接部署Cloudflare
 
 基于零知识证明(Zero-Knowledge Proofs)的去中心化混币器，后端以智能合约部署在以太坊主链上(如需要部署在其他链上需要定制)，前端使用Vue，可部署在Cloudflare上，无需自己租用服务器。
 
+**项目网站：https://usdt-mixer.me**
+
+**可根据需求定制**
+
 该项目的核心在于零知识证明，这也是Tornado Cash所使用的技术。想要项目代码请**邮件联系邮箱**nxohl8ycu@mozmail.com，谢绝白嫖。
 
 # 零知识证明
