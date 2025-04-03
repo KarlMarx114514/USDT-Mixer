@@ -7,7 +7,7 @@ USDT混币器(ERC-20)，带前端后端，可直接部署Cloudflare
 
 **可根据需求定制**
 
-该项目的核心在于零知识证明，这也是Tornado Cash所使用的技术。想要项目代码请**邮件联系邮箱**nxohl8ycu@mozmail.com，谢绝白嫖。
+该项目的核心在于零知识证明，这也是Tornado Cash所使用的技术。想要项目代码请**邮件联系邮箱**nxohl8ycu@mozmail.com，谢绝白嫖。电报：https://t.me/Jssssss7
 
 # 零知识证明
 零知识证明是一种密码学方法，允许一方在不泄露数据本身的情况下，向另一方证明自己掌握这个数据。
