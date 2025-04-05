@@ -3,6 +3,8 @@ USDT混币器(ERC-20)，带前端后端，可直接部署Cloudflare
 
 基于零知识证明(Zero-Knowledge Proofs)的去中心化混币器，后端以智能合约部署在以太坊主链上(如需要部署在其他链上需要定制)，前端使用Vue，可部署在Cloudflare上，无需自己租用服务器。
 
+智能合约代码已上传公开，查看方法：进入项目网站，点击上方Check our code按钮即可
+
 **项目网站：https://usdt-mixer.me**
 
 **可根据需求定制**
